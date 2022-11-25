@@ -1,0 +1,2 @@
+export
+  * from './autorizado.guard'
